@@ -4,7 +4,7 @@
   }
   
   .child {
-    width: 2%;
+    width: 90%;
     background: salmon;
-    min-width: 200px;
+    max-width: 200px;
   }
